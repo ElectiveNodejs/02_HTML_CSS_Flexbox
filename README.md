@@ -159,14 +159,14 @@ CSS-specific rules & tools:
 	E.g.: 
 		HTML: `<p> Hello </p>`
 	        
-	      CSS: `p { styles... }`
+	      CSS: p { styles... }
 
 
 	In order to better target these elements, we can add two special attributes, called `id` and `class`.
 
-	E.g.: `<a href=”#” id=”btnId”>Home</a>
+	E.g.: `<a href=”#” id=”btnId”>Home</a>`
      
-     	      <a href=”#” class=”btnClass”>Home</a>`
+     	     `<a href=”#” class=”btnClass”>Home</a>`
 
 
 	The way they are targeted in the CSS is like this:
