@@ -214,7 +214,7 @@ CSS-specific rules & tools:
 	**Absolute** - elements that are rendered at the absolute direction values given, but don’t stay in a fixed position (this applies inside its nearest parent)
 
 
-Read [http://www.matt-harris.net/notes/css-positioning](http://www.matt-harris.net/notes/css-positioning)
+	Read [http://www.matt-harris.net/notes/css-positioning](http://www.matt-harris.net/notes/css-positioning)
 
 
 6. Display Types
