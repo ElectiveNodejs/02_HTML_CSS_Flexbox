@@ -1,0 +1,48 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+div{
+	height: 80px;	
+	line-height: 80px;
+	text-align: center;
+	color: white;
+	font-family: sans-serif;
+	font-size: 44px;
+}
+
+.small{
+	width: 150px;
+}
+
+.medium{
+	width: 300px;
+}
+
+.big{
+	width: 450px;
+}	
+
+.purple{
+	background: purple;
+	color: yellow;
+}
+
+.red{
+	background: red;
+	text-decoration: underline;
+}
+
+.green{
+	background: green;
+}
+
+.blue{
+	background: blue;
+}
+
+.yellow{
+	background: yellow;
+	color: black;
+}

@@ -1,0 +1,27 @@
+div{
+	width: 400px;
+	height: 400px;
+	border: 1px black solid;
+}
+
+#static{
+	position: static;
+	left: 300px;
+}
+
+#fixed{
+	position: fixed;
+	right: 0;
+	top: 0;
+}
+
+#relative{
+	position: relative;
+	left: 200px;
+}
+
+#absolute{
+	position: absolute;
+	left: 100px;
+	top: 1000px;
+}

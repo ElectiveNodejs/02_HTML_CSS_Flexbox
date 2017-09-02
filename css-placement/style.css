@@ -1,0 +1,49 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+div{
+	width: 300px;
+	height: 300px;
+	border: 1px black solid;
+}
+
+#top-right{
+	position: absolute;
+	top: 0;
+	right: 0;
+}
+
+#bottom-right{
+	position: absolute;
+	bottom: 0;
+	right: 0;
+}
+
+#bottom-left{
+	position: absolute;
+	bottom: 0;
+	left: 0;
+}
+
+#center{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin-top: -150px;
+	margin-left: -150px;
+
+	/* only horizontally */
+	/*margin: 0 auto;*/
+}
+
+
+
+
+
+
+
+
+
+
