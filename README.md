@@ -166,7 +166,7 @@ CSS-specific rules & tools:
 
 	E.g.: `<a href=”#” id=”btnId”>Home</a>`
      
-     	     `<a href=”#” class=”btnClass”>Home</a>`
+     	     <a href=”#” class=”btnClass”>Home</a>
 
 
 	The way they are targeted in the CSS is like this:
